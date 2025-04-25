@@ -1,13 +1,20 @@
 <div align="center">
   <h1>✨ AlMoslim - تطبيق المسلم ✨</h1>
 
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="https://flutter.dev/"/>
-    <img src="https://flutter.dev/ alt="(http://dart.dev/)"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="http://firebase.google.com"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="https://www.mediafire.com/file/dmbq4rvg4i9urnz/Almoslim.apk/file"/>
-    
-  </p>
+ <p>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+  <a href="https://www.mediafire.com/file/dmbq4rvg4i9urnz/Almoslim.apk/file" target="_blank">
+    <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</p>
 
   <p>
     <a href="#المميزات">المميزات</a> •
