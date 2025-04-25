@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608987180114",
+    "project_id": "almoslim-bdbb3",
+    "storage_bucket": "almoslim-bdbb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608987180114:android:636b0b478c0192cdcfc38b",
+        "android_client_info": {
+          "package_name": "com.almoslim.al_moslim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrIspMOOfwoV2rFFPK6NIivIe3aayz4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

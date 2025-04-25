@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+import 'package:al_moslim/core/services/notification_service_fixed.dart';
+import 'package:al_moslim/core/widgets/notification_widget.dart';
+
+class NotificationTestScreen extends StatefulWidget {
+  const NotificationTestScreen({Key? key}) : super(key: key);
+
+  @override
+  State<NotificationTestScreen> createState() => _NotificationTestScreenState();
+}
+
+class _NotificationTestScreenState extends State<NotificationTestScreen> {
+  final NotificationService _notificationService = NotificationService();
+  final NotificationManager _notificationManager = NotificationManager();
