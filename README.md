@@ -2,11 +2,11 @@
   <h1>✨ AlMoslim - تطبيق المسلم ✨</h1>
 
   <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="https://flutter.dev/"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="[Dart](http://dart.dev/)"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="[Firebase](http://firebase.google.com/)"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="[Android](https://www.mediafire.com/file/dmbq4rvg4i9urnz/Almoslim.apk/file)"/>
+    
   </p>
 
   <p>
@@ -27,11 +27,11 @@
 ### 📖 القرآن الكريم
 - قارئ للقرآن الكريم مع إمكانية تصفح السور والآيات
 - مشغل صوتي للقرآن مع دعم لعدة قراء
+- تفسير كامل و صحيح للايات القران الكريم
 - إمكانية حفظ الآيات المفضلة للرجوع إليها لاحقاً
 
 ### ⏰ مواقيت الصلاة
 - عرض أوقات الصلوات الخمس بناءً على موقع المستخدم
-- تنبيهات قبل وقت الصلاة
 - عرض الوقت المتبقي للصلاة القادمة
 
 ### 🧭 اتجاه القبلة
@@ -68,7 +68,7 @@
 - Flutter 3.0.0 أو أحدث
 - Dart 2.17.0 أو أحدث
 - Android 5.0 (API level 21) أو أحدث
-- iOS 11.0 أو أحدث
+
 
 ### تثبيت التطبيق
 1. قم بتنزيل أحدث إصدار من [صفحة الإصدارات](https://github.com/FaresAhmedb/almoslim/releases)
