@@ -3,9 +3,9 @@
 
   <p>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="https://flutter.dev/"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="[Dart](http://dart.dev/)"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="[Firebase](http://firebase.google.com/)"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="[Android](https://www.mediafire.com/file/dmbq4rvg4i9urnz/Almoslim.apk/file)"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="(http://dart.dev/)"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="(http://firebase.google.com/)"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="(https://www.mediafire.com/file/dmbq4rvg4i9urnz/Almoslim.apk/file)"/>
     
   </p>
 
